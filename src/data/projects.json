@@ -1,21 +1,21 @@
 [
   {
     "title": "E-commerce Platform",
-    "imageSrc": "projects/ecommerce.png",
+    "imageSrc": "../../assets/projects/ecommerce.png",
     "description": "Developed a comprehensive full-stack e-commerce application using ReactJS for the frontend and Spring Boot for the backend, with MySQL as the database. The platform supports user authentication, product browsing, cart management, and order tracking. Integrated Razorpay for secure payment processing. An admin panel is included for product and order management, making it suitable for end-to-end e-commerce operations.",
     "skills": ["React", "Spring Boot", "MySQL", "Razorpay","Javascript"],
     "source": "https://github.com/Aditi9560/E-commerce-website"
   },
   {
     "title": "Dobby Virtual Assistant",
-    "imageSrc": "projects/virtualassistant.png",
+    "imageSrc": "../../assets/projects/virtualassistant.png",
     "description": "Built a Python-based voice-activated virtual assistant named 'Dobby' capable of executing a wide range of tasks through natural voice commands. The assistant uses speech recognition and integrates with OpenAI's GPT to answer queries conversationally. It can automate web actions like opening websites, playing YouTube videos, reading news from NewsAPI, and more. The assistant also supports modular expansion for new features.",
     "skills": ["Python", "SpeechRecognition", "OpenAI", "NewsAPI"],
     "source": "https://github.com/Aditi9560/Voice_Assistant-Dobbyy-"
   },
   {
     "title": "Netflix Clone",
-    "imageSrc": "projects/netflix.png",
+    "imageSrc": "../../assets/projects/netflix.png",
     "description": "Created a front-end clone of Netflix using ReactJS and JavaScript, integrated with The Movie Database (TMDB) API to fetch trending and categorized movie data. The UI features interactive carousels, hover previews, and detailed movie info. Firebase is used for user authentication and deployment, making the app secure and production-ready. Designed to emulate Netflix’s user experience with dynamic content rendering.",
     "skills": ["React", "JavaScript", "TMDB API", "Firebase"],
     "source": "https://github.com/Aditi9560/Netlix-Clone"

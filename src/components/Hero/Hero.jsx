@@ -1,5 +1,4 @@
 import React from 'react'
-// import { getImageUrl } from '../../utils';
 import heroimg from "../../assets/hero/Aditi's.png"
 
 import styles from "./Hero.module.css"
@@ -13,7 +12,6 @@ import styles from "./Hero.module.css"
         Full-Stack Developer with 8 months of experience, proficient in React, Java, and .NET technologies. Focused on developing both frontend and backend solutions for web applications. </p>
         <a href="mailto:aditiverma9560@gmail.com" className={styles.contactBtn}>Contact me</a>
     </div>
-    {/* <img src={getImageUrl("hero/Aditi's.png")} alt="hero image of me" className={styles.heroImg}/> */}
     <img src={heroimg} alt="hero image of me" className={styles.heroImg}/>
     <div className={StyleSheet.topBlur}/>
     <div className={StyleSheet.bottomBlur}/>

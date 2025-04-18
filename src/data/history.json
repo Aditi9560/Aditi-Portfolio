@@ -8,8 +8,9 @@
       "Worked on Yondr and NSD projects.",
       "Yondr: Built different modules with UI and API, fixed bugs, and wrote test cases.",
       "NSD: worked on some modules from scratch and integrated Redux."
-    ],
-    "imageSrc": "history/podtech.png"
+    ], 
+      "imageSrc": "../../assets/history/podtech.png"
+    
   },
   {
     "role": "Software Development Intern",
@@ -20,6 +21,6 @@
       "Worked on API development.",
       "Built reusable UI components."
     ],
-    "imageSrc": "history/userology.png"
+      "imageSrc": "../../assets/history/userology.png"
   }
 ]
