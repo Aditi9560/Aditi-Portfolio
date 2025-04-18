@@ -9,7 +9,7 @@
       "Yondr: Built different modules with UI and API, fixed bugs, and wrote test cases.",
       "NSD: worked on some modules from scratch and integrated Redux."
     ], 
-      "imageSrc": "../../assets/history/podtech.png"
+      "imageSrc": "/assets/history/podtech.png"
     
   },
   {
@@ -21,6 +21,6 @@
       "Worked on API development.",
       "Built reusable UI components."
     ],
-      "imageSrc": "../../assets/history/userology.png"
+      "imageSrc": "/assets/history/userology.png"
   }
 ]
