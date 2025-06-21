@@ -1,0 +1,34 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "src/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "src/assets/skills/css.png"
+    },
+    {
+      "title": "React",
+       "imageSrc": "src/assets/skills/react.png"
+    },
+    {
+      "title": "Javascript",
+       "imageSrc": "src/assets/skills/javascript.png"
+    },
+    {
+      "title": "Java",
+       "imageSrc": "src/assets/skills/java.png"
+    },
+    {
+      "title": "Springboot",
+       "imageSrc": "src/assets/skills/spring-boot.png"
+    },
+    {
+      "title": ".Net",
+       "imageSrc": "src/assets/skills/dotnet.png"
+    },
+    {
+      "title": "MySQL",
+       "imageSrc": "src/assets/skills/mysql.png"
+    }
+  ] 

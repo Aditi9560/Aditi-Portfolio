@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimg from "../../assets/hero/Aditi's.png"
+import heroimg from "../../assets/hero/Aditi.png"
 
 import styles from "./Hero.module.css"
 
