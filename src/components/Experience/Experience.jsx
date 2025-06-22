@@ -6,6 +6,45 @@ import history from "../../data/history.json";
 
 
  const Experience = () => {
+
+   const skillsdata=
+    [
+    {
+      "title": "HTML",
+      "imageSrc": "./skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "./skills/css.png"
+    },
+    {
+      "title": "React",
+       "imageSrc": "./skills/react.png"
+    },
+    {
+      "title": "Javascript",
+       "imageSrc": "./skills/javascript.png"
+    },
+    {
+      "title": "Java",
+       "imageSrc": "./skills/java.png"
+    },
+    {
+      "title": "Springboot",
+       "imageSrc": "./skills/spring-boot.png"
+    },
+    {
+      "title": ".Net",
+       "imageSrc": "./skills/.net.png"
+    },
+    {
+      "title": "MySQL",
+       "imageSrc": "./skills/mySql.png"
+    }
+  ]
+   
+
+   
   return (
     <section className={styles.container} id="experience">
       <h2 className={styles.title}>Experience</h2>
